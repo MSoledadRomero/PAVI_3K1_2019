@@ -1,0 +1,7 @@
+
+1) Instalar el .NET Framework 4.5:
+http://www.microsoft.com/en-us/download/details.aspx?id=30653
+2) SQL Server 2008 R2 Express:
+http://www.microsoft.com/en-us/download/details.aspx?id=30438
+3) Management Studio:
+http://www.microsoft.com/en-us/download/details.aspx?id=7593

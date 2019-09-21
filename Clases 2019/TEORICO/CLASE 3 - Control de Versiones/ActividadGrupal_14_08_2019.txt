@@ -1,0 +1,11 @@
+Con el material contenido en el archivo:
+-Crear cuentas de usuario github.
+-Crear un repositorio y agregar colaboradores (los del grupo, en caso de ser individual simular con 2 usuarios).
+-Crear un proyecto con un formulario simple (puede ser alguno de los vistos en clase).
+-Subir el proyecto al repositorio creado.
+-Hacer al menos un cambio cada colaborador.
+-Generar un conflicto y resolverlo.
+
+Puede usar otras herramientas mientras cumpla el objetivo de resolver conflictos.
+
+Hasta el 20/08/19  24 hs enviar un mail por grupo a romeroma.soledad@gmail.com con la url del repositorio creado para ver la actividad.
